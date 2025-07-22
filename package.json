@@ -1,0 +1,26 @@
+{
+  "name": "n8n_local_runner",
+  "version": "1.0.0",
+  "description": "This tool runs n8n locally using an ngrok tunnel to fix issues with local execution.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yasir-dev1/n8n_local_runner.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/yasir-dev1/n8n_local_runner/issues"
+  },
+  "homepage": "https://github.com/yasir-dev1/n8n_local_runner#readme",
+  "dependencies": {
+    "@ngrok/ngrok": "^1.5.1",
+    "child_process": "^1.0.2",
+    "ngrok": "^5.0.0-beta.2"
+  }
+}
