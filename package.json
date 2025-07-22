@@ -1,6 +1,6 @@
 {
   "name": "n8n-local-runner",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This tool runs n8n locally using an ngrok tunnel to fix issues with local execution.",
   "main": "index.js",
   "scripts": {
